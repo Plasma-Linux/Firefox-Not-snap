@@ -1,0 +1,1 @@
+# Firefox-Not-snap
