@@ -6,6 +6,13 @@ Ubuntu 22.04 LTSのFirefox snap版を完全無効化し、Deb版のインスト�
 
 2.Gnome-shell拡張機能がインストールできない
 
+# 使い方
+Firefox-mozirappa.shはDeb版(Debianパッケージ)です。
+
+Firefox-Build.shは上級ユーザー向けとされているバイナリをインストールします。
+
+お好きな方を選んでください。
+
 # 注意
 1.Moziraのバイナリからビルドする際は一部のフォルダの管理権限を変える必要があります。
 
