@@ -16,6 +16,8 @@ sudo chmod +x /usr/local/share/
 
 wget https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=ja&_gl=1*19cx649*_ga*MjU4MDIwOTMwLjE2NjA3MjI0Njg.*_ga_MQ7767QQQW*MTY2MTQ2ODY5OS4yLjEuMTY2MTQ2ODcxNC4wLjAuMA..
 
+mv firefox-*.tar.bz2 $HOME/ダウンロード
+
 cd ~/ダウンロード
 
 tar xjf firefox-*.tar.bz2
